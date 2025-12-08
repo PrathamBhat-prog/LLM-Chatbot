@@ -1,2 +1,6 @@
 google-generativeai
 python-dotenv
+numpy
+scikit-learn
+scipy
+joblib
